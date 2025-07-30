@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Emirhan Kaya! | Hi, I'm Emirhan Kaya!
+# 👋 Merhaba, ben Emirhan! | Hi, I'm Emirhan!
 
 <a href="[https://tr.linkedin.com/in/tremirhankaya]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -43,6 +43,6 @@
 ### 📊 GitHub İstatistiklerim | My GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tremirhankaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Emirhan's GitHub Stats"/>
+ Stats"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremirhankaya&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </p>
