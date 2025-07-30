@@ -43,5 +43,5 @@
 ### 📊 GitHub İstatistiklerim | My GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremirhankaya&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremirhankaya&layout=compact&langs_count=6&theme=tokyonight&exclude_repo=FlappyCube,SpaceShooterGame,BasicCalculator,ExponentialNumbers"" alt="Top Languages"/>
 </p>
