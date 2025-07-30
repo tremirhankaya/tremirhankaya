@@ -9,7 +9,7 @@
 
 ---
 
-🎓 **Java Geliştirici.** Temel ve orta seviye konular üzerine çalışıyor ve öğrendiklerimi uygulamalı projelerle pekiştiriyorum. Amacım, standartlara uygun ve temiz kod yazarak anlamlı projeler geliştirmektir.
+🎓 **Java Geliştirici.** Temel ve orta seviye konular üzerine çalışıyor ve öğrendiklerimi uygulamalı projelerle pekiştiriyorum. Amacım, standartlara uygun ve temiz kod yazarak anlamlı projeler geliştirmek.
 
 *I am a **Java Developer** who works on fundamental and intermediate topics, reinforcing my knowledge with hands-on projects. My goal is to develop meaningful projects by writing clean, standards-compliant code.*
 
