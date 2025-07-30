@@ -43,6 +43,5 @@
 ### 📊 GitHub İstatistiklerim | My GitHub Stats
 
 <p align="center">
- Stats"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremirhankaya&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </p>
