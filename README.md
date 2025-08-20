@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Emirhan! | Hi, I'm Emirhan!
+# Merhaba, ben Emirhan! | Hi, I'm Emirhan!
 
 <a href="https://tr.linkedin.com/in/tremirhankaya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 Teknolojiler ve Araçlar | Technologies & Tools
+###  Teknolojiler ve Araçlar | Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -32,7 +32,7 @@
 
 ---
 
-### 🌱 Şu Anki Odak Noktam | Current Focus
+###  Şu Anki Odak Noktam | Current Focus
 
 Şu sıralar **Spring Framework, Spring Boot ve JPA/Hibernate** konuları üzerinde çalışıyorum. Öğrendiklerimi, baştan sona bir web uygulaması geliştirerek pekiştirmeyi hedefliyorum.
 
