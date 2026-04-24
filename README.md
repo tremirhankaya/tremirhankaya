@@ -8,7 +8,7 @@
 
 ---
 
-Java & Spring Boot ekosisteminde backend geliştirici, hobi olarak oyun geliştiriyorum.
+Java & Spring Boot ekosisteminde backend geliştirici, hobi olarak oyun geliştirme.
 
 *Backend developer in the Java & Spring Boot ecosystem — game dev as a hobby.*
 
